@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "space_between_listitems",
+    "hide_embedded_header",
+    "underline_color"
+  ],
+  "baseFontSize": 17
+}

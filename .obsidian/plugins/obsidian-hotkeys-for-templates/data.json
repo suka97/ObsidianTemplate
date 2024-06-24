@@ -1,0 +1,10 @@
+{
+  "files": [
+    "newline.md",
+    "underline.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}

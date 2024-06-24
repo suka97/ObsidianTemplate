@@ -1,0 +1,11 @@
+# ignore root files & root directories
+/*
+/*/
+
+# unignore this .gitignore
+!.gitignore
+
+# unignore obsidian vault configuration
+!.obsidian/
+# unignore templater templates
+!_obsidian-templates/

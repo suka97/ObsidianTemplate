@@ -1,0 +1,1 @@
+[Fuente](Libro%20Legislación%206ta%20edición.pdf#page=<%%20tp.file.cursor()%20%>)
