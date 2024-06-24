@@ -1,6 +1,13 @@
 [
   "templater-obsidian",
   "obsidian-paste-image-rename",
-  "obsidian-image-toolkit",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "hide-folders",
+  "obsidian-excalidraw-plugin",
+  "obsidian-plugin-update-tracker",
+  "link-favicon",
+  "obsidian-underline",
+  "obsidian-auto-link-title",
+  "image-captions",
+  "janitor"
 ]
