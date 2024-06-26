@@ -7,5 +7,7 @@
 
 # unignore obsidian vault configuration
 !.obsidian/
-# unignore templater templates
+# unignore templater templates (only _obsidian-templates/basic/*)
+_obsidian-templates/*
 !_obsidian-templates/
+!_obsidian-templates/basic/
