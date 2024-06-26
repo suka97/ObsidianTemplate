@@ -15,5 +15,6 @@
   "showUnsupportedFiles": true,
   "promptDelete": true,
   "strictLineBreaks": false,
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "trashOption": "local"
 }
