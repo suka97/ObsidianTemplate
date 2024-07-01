@@ -1,5 +1,5 @@
 {
-  "runAtStartup": true,
+  "runAtStartup": false,
   "addRibbonIcon": true,
   "promptUser": true,
   "promptForBigFiles": true,
@@ -11,7 +11,11 @@
   "processOrphans": true,
   "processEmpty": true,
   "processExpired": true,
-  "processBig": true,
+  "processBig": false,
   "honorObsidianExcludedFiles": true,
-  "excludedFilesFilters": []
+  "excludedFilesFilters": [
+    ".pdf",
+    ".drawio",
+    ".svg"
+  ]
 }

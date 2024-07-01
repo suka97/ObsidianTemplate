@@ -103,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,9 +120,10 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-trash-explorer:Open trash explorer": true
+      "obsidian-trash-explorer:Open trash explorer": true,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9526b9b4b1164fca",
+  "active": "230da5b8ab97cc0a",
   "lastOpenFiles": []
 }
