@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "a9977f7493b070aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff204b5bf254b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9526b9b4b1164fca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e71da83b694c074",
+    "type": "split",
+    "children": [
+      {
+        "id": "170a9caa5ea27750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b04dcf65fadd6d30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "753c700f6ba8dee5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"excalidraw-plugin\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5488df99dccf2009",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f026c941a45f655a",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "1842ba41b1be73d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fca3e2349b5d703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52694ef34750558",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "230da5b8ab97cc0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "hide-folders:Show hidden folders": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-trash-explorer:Open trash explorer": true
+    }
+  },
+  "active": "9526b9b4b1164fca",
+  "lastOpenFiles": []
+}
