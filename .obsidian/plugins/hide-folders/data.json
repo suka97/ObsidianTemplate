@@ -1,11 +1,10 @@
 {
-  "areFoldersHidden": true,
+  "areFoldersHidden": false,
   "matchCaseInsensitive": true,
   "addHiddenFoldersToObsidianIgnoreList": false,
   "hideBottomStatusBarIndicatorText": false,
   "enableCompatQuickExplorer": false,
   "attachmentFolderNames": [
-    "_assets",
-    "_obsidian-templates"
+    "startsWith::_"
   ]
 }
