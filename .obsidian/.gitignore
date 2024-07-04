@@ -2,4 +2,4 @@
 # workspace.json
 
 # ignore iconize folders (local for current project)
-plugins/obsidian-icon-folder/data.json
+# plugins/obsidian-icon-folder/data.json
