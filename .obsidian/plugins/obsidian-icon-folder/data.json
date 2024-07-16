@@ -1,12 +1,16 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 10,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "😀"
+      "💡",
+      "📚",
+      "🧠",
+      "📬",
+      "📆"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -27,6 +31,12 @@
         "icon": "📙",
         "for": "everything",
         "order": 2
+      },
+      {
+        "rule": "Readme",
+        "icon": "🔍",
+        "for": "everything",
+        "order": 3
       }
     ],
     "extraMargin": {
@@ -35,7 +45,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": true,
@@ -46,5 +56,10 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Journal": "📆",
+  "Notes Inbox": "📬",
+  "Notes Zettelkasten": "🧠",
+  "Notes Inputs": "📚",
+  "Proyectos": "💡"
 }

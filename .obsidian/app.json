@@ -10,11 +10,12 @@
     "downscalePercent": 100
   },
   "newLinkFormat": "relative",
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "strictLineBreaks": false,
   "userIgnoreFilters": null,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileFolderPath": "Notes Inbox"
 }

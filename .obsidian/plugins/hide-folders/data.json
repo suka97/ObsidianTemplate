@@ -1,10 +1,11 @@
 {
-  "areFoldersHidden": false,
+  "areFoldersHidden": true,
   "matchCaseInsensitive": true,
   "addHiddenFoldersToObsidianIgnoreList": false,
   "hideBottomStatusBarIndicatorText": false,
   "enableCompatQuickExplorer": false,
   "attachmentFolderNames": [
-    "startsWith::_"
+    "startsWith::_",
+    "desktop.ini"
   ]
 }

@@ -40,5 +40,20 @@
       ],
       "key": "A"
     }
-  ]
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "app:open-settings": []
 }
