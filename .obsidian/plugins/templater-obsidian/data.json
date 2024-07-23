@@ -21,7 +21,8 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "_obsidian-templates/newline.md"
+    "_obsidian-templates/basic/newline.md",
+    "_obsidian-templates/basic/em-space.md"
   ],
   "startup_templates": [],
   "enable_ribbon_icon": true
