@@ -55,5 +55,37 @@
       "key": ","
     }
   ],
-  "app:open-settings": []
+  "app:open-settings": [],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "templater-obsidian:_obsidian-templates/basic/newline.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "templater-obsidian:_obsidian-templates/basic/em-space.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ]
 }
