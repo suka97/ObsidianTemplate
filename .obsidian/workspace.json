@@ -1,18 +1,20 @@
 {
   "main": {
-    "id": "a9977f7493b070aa",
+    "id": "cc09a9b83f2d53a0",
     "type": "split",
     "children": [
       {
-        "id": "8ff204b5bf254b3f",
+        "id": "1af8d44346872e18",
         "type": "tabs",
         "children": [
           {
-            "id": "9526b9b4b1164fca",
+            "id": "9e58fc1a94c02878",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin Updates"
             }
           }
         ]
@@ -21,70 +23,86 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8e71da83b694c074",
+    "id": "47db7420d4166442",
     "type": "split",
     "children": [
       {
-        "id": "170a9caa5ea27750",
+        "id": "48e6a42d12cff012",
         "type": "tabs",
         "children": [
           {
-            "id": "b04dcf65fadd6d30",
+            "id": "54da26a800d27a73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "753c700f6ba8dee5",
+            "id": "9a73e8044cdf1c0e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"excalidraw-plugin\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "5488df99dccf2009",
+            "id": "13637efc2b8c0058",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "f026c941a45f655a",
-            "type": "leaf",
-            "state": {
-              "type": "trash-explorer",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 300
   },
   "right": {
-    "id": "1842ba41b1be73d6",
+    "id": "b8da0aa5e5b680b8",
     "type": "split",
     "children": [
       {
-        "id": "0fca3e2349b5d703",
+        "id": "0b256bf71a6cd7d4",
         "type": "tabs",
         "children": [
           {
-            "id": "b52694ef34750558",
+            "id": "2044e7f2aa394159",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0c39b0e1c62a8bd2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -92,40 +110,44 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "230da5b8ab97cc0a",
+            "id": "0825641c26461306",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
-      "hide-folders:Show hidden folders": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
-      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "hide-folders:Show hidden folders": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "janitor:Janitor: scan vault": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "translate:Open translation view": false,
-      "command-palette:Open command palette": false
+      "translate:Open translation view": false
     }
   },
+  "active": "9e58fc1a94c02878",
+  "lastOpenFiles": []
 }
