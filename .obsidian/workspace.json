@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2258f0ca107fc2a7",
+            "id": "2481716295392e62",
             "type": "leaf",
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test Folder/Test1/Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Plugin Updates"
+              "title": "Test"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Folder/Test1/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -120,9 +125,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Test Folder/Test1/Test.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test"
             }
           }
         ]
@@ -148,7 +155,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "2258f0ca107fc2a7",
+  "active": "2481716295392e62",
   "lastOpenFiles": [
     "Notes Inbox/Drawing 2024-10-25 20.15.02.excalidraw.md",
     "Notes Inbox"
