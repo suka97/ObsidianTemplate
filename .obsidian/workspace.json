@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "d18b6a66297d7c62",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin Updates"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "7f736295913a1e7f",
+  "active": "d18b6a66297d7c62",
   "lastOpenFiles": [
     "Test Folder/Test1/hola.md",
     "Test Folder/Test1/_assets",
