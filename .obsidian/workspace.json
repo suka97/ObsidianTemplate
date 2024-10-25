@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Test"
             }
+          },
+          {
+            "id": "7f736295913a1e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Folder/Test1/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,8 +170,16 @@
       "translate:Open translation view": false
     }
   },
-  "active": "2481716295392e62",
+  "active": "7f736295913a1e7f",
   "lastOpenFiles": [
+    "Test Folder/Test1/hola.md",
+    "Test Folder/Test1/_assets",
+    "Test Folder/Test2/hola.md",
+    "Test Folder/Test1",
+    "Test Folder/Test2/_assets",
+    "Test Folder/Test1/Test.md",
+    "Test Folder/Test2",
+    "Test Folder/Test2",
     "Notes Inbox/Drawing 2024-10-25 20.15.02.excalidraw.md",
     "Notes Inbox"
   ]
