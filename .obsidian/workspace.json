@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1af8d44346872e18",
+        "id": "4d636f95d888bab5",
         "type": "tabs",
         "children": [
           {
-            "id": "9e58fc1a94c02878",
+            "id": "2258f0ca107fc2a7",
             "type": "leaf",
             "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin Updates"
+              "title": "New tab"
             }
           }
         ]
@@ -148,6 +148,9 @@
       "translate:Open translation view": false
     }
   },
-  "active": "9e58fc1a94c02878",
-  "lastOpenFiles": []
+  "active": "2258f0ca107fc2a7",
+  "lastOpenFiles": [
+    "Notes Inbox/Drawing 2024-10-25 20.15.02.excalidraw.md",
+    "Notes Inbox"
+  ]
 }
