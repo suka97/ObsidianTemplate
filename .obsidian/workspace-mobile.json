@@ -3,15 +3,16 @@
     "hiddenItems": {
       "hide-folders:Show hidden folders": false,
       "translate:Open translation view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
-      "templater-obsidian:Templater": false,
-      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "janitor:Janitor: scan vault": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "command-palette:Open command palette": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   }
