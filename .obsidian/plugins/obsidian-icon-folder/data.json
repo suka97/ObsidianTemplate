@@ -2,7 +2,7 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 10,
+    "fontSize": 11,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
@@ -34,9 +34,16 @@
       },
       {
         "rule": "Readme",
-        "icon": "🔍",
+        "icon": "🔎",
         "for": "everything",
         "order": 3
+      },
+      {
+        "rule": ".asc",
+        "icon": "LiCircuitBoard",
+        "for": "everything",
+        "order": 4,
+        "color": "#0eb602"
       }
     ],
     "extraMargin": {

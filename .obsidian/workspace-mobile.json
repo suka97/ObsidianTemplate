@@ -1,7 +1,8 @@
 {
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Show hidden folders": false,
+      "hide-folders:Hide hidden folders again": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "translate:Open translation view": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -10,7 +11,6 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "janitor:Janitor: scan vault": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-trash-explorer:Open trash explorer": false

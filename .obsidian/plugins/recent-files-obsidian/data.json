@@ -1,16 +1,8 @@
 {
   "recentFiles": [
-    {
-      "basename": "Test",
-      "path": "Test/Test.md"
-    },
-    {
-      "basename": "project_folder_note",
-      "path": "_obsidian-templates/notes/project_folder_note.md"
-    }
   ],
   "omittedPaths": [],
   "omittedTags": [],
-  "updateOn": "file-open",
+  "updateOn": "file-edit",
   "omitBookmarks": false
 }

@@ -100,8 +100,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2",
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
     "libraryItems": [
       {
         "id": "V8qx_FTFW1-81cKcUwpIO",
@@ -9120,7 +9119,6 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
-  "pdfFrame": false,
   "pdfGapSize": 20,
   "pdfGroupPages": false,
   "pdfLockAfterImport": true,
@@ -9128,11 +9126,6 @@
   "pdfNumRows": 1,
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
-  "gridSettings": {
-    "DYNAMIC_COLOR": true,
-    "COLOR": "#000000",
-    "OPACITY": 50
-  },
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
@@ -9155,12 +9148,10 @@
     "filenameVisible": false
   },
   "markdownNodeOneClickEditing": false,
-  "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
-  "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
