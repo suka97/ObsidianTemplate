@@ -493,6 +493,11 @@ svg.oz-folder-toggle path {
     vertical-align: middle !important;
 }
 
+.oz-folder-name:has(.oz-folder-note-icon) {
+  text-decoration: underline;
+  text-underline-offset: 2px; /* Opcional: separa un poco la línea del texto */
+}
+
 .oz-nav-file-icon {
     line-height: 1;
     display: inline-block;
