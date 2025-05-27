@@ -1009,7 +1009,7 @@ const createFolderTree = (params) => {
         for (let child of folder.children) {
             if (child instanceof obsidian.TFolder) {
                 let childFolder = child;
-                if ((plugin.settings.hideAttachments && childFolder.name === plugin.settings.attachmentsFolderName) ||
+                if ((plugin.settings.hideAttachments && childFolder.name.startsWith(plugin.settings.attachmentsFolderName)) ||
                     (excludedFolders.length > 0 && excludedFolders.contains(child.path))) {
                     continue;
                 }
@@ -4381,7 +4381,7 @@ const DEFAULT_SETTINGS = {
     excludedExtensions: '',
     excludedFolders: '',
     hideAttachments: false,
-    attachmentsFolderName: '_assets',
+    attachmentsFolderName: '_',
     folderIcon: 'default',
     folderCount: true,
     folderCountOption: 'notes',
