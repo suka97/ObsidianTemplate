@@ -2,15 +2,15 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 10,
+    "fontSize": 11,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧪",
       "💡",
       "📚",
       "🧠",
-      "📬",
-      "📆"
+      "📬"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -34,9 +34,23 @@
       },
       {
         "rule": "Readme",
-        "icon": "🔍",
+        "icon": "🔎",
         "for": "everything",
         "order": 3
+      },
+      {
+        "rule": ".asc",
+        "icon": "LiCircuitBoard",
+        "for": "everything",
+        "order": 4,
+        "color": "#0eb602"
+      },
+      {
+        "rule": ".xlsx",
+        "icon": "LiSheet",
+        "for": "everything",
+        "order": 5,
+        "color": "#00a803"
       }
     ],
     "extraMargin": {
@@ -61,5 +75,6 @@
   "Notes Inbox": "📬",
   "Notes Zettelkasten": "🧠",
   "Notes Inputs": "📚",
-  "Proyectos": "💡"
+  "Proyectos": "💡",
+  "Pruebas - Compras": "🧪"
 }

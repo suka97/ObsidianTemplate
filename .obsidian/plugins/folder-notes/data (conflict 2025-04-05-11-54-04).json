@@ -10,7 +10,7 @@
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
-  "stopWhitespaceCollapsing": false,
+  "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
@@ -48,7 +48,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "file_explorer",
+  "settingsTab": "general",
   "supportedFileTypes": [
     "md",
     "canvas"
@@ -57,7 +57,7 @@
   "boldNameInPath": false,
   "cursiveName": false,
   "cursiveNameInPath": false,
-  "disableOpenFolderNoteOnClick": true,
+  "disableOpenFolderNoteOnClick": false,
   "openByClick": true,
   "openWithCtrl": false,
   "openWithAlt": false,
