@@ -4381,7 +4381,7 @@ const DEFAULT_SETTINGS = {
     excludedExtensions: '',
     excludedFolders: '',
     hideAttachments: false,
-    attachmentsFolderName: 'attachments',
+    attachmentsFolderName: '_assets',
     folderIcon: 'default',
     folderCount: true,
     folderCountOption: 'notes',

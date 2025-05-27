@@ -9,7 +9,7 @@
   "revealActiveFileButton": false,
   "excludedExtensions": "",
   "hideAttachments": true,
-  "attachmentsFolderName": "attachments",
+  "attachmentsFolderName": "_assets",
   "folderIcon": "default",
   "folderCount": true,
   "folderCountOption": "notes",
