@@ -1,7 +1,6 @@
 [
   "templater-obsidian",
   "obsidian-paste-image-rename",
-  "consistent-attachments-and-links",
   "hide-folders",
   "obsidian-excalidraw-plugin",
   "obsidian-plugin-update-tracker",
@@ -17,6 +16,8 @@
   "mermaid-tools",
   "obsidian-outliner",
   "translate",
+  "folder-notes",
   "recent-files-obsidian",
-  "folder-notes"
+  "consistent-attachments-and-links",
+  "code-styler"
 ]

@@ -16,6 +16,9 @@
   "excludedFilesFilters": [
     ".pdf",
     ".drawio",
-    ".svg"
+    ".svg",
+    ".asc",
+    ".docx",
+    ".xlsx"
   ]
 }

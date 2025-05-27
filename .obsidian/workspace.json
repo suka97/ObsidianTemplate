@@ -1,7 +1,8 @@
 {
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Hide hidden folders again": false,
+      "switcher:Open quick switcher": false,
+      "hide-folders:Show hidden folders": false,
       "translate:Open translation view": false,
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
@@ -9,10 +10,8 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "janitor:Janitor: scan vault": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-trash-explorer:Open trash explorer": true,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "command-palette:Open command palette": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   }
