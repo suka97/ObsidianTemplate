@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NewTest",
+      "path": "NewFolder/NewTest.md"
+    },
+    {
       "basename": "Test",
       "path": "Test/Test.md"
     },
